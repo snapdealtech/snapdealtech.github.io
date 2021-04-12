@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title:	Snapdeal Engineering Blog
+description:	All about Snapdeal's engineering systems and amazing work our rockstars do. Get in touch with us at rockstars@snapdeal.com . We are Hiring!
+logo:	/assets/img/snapdeal-logo.png
+google_analytics:
+
